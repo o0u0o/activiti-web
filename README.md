@@ -1,5 +1,6 @@
 Acticiti7工作流引擎
 ===============
+
 # 项目介绍
 基于[Acticiti7](https://github.com/Activiti/Activiti)的Web工作流引擎，完整开源。
 
@@ -8,7 +9,7 @@ Acticiti7工作流引擎
 # 主要特性
 * 完整的流程部署、创建实例、任务流转
 * 使用Acticiti7新版特性
-* 融合BPMN-JS作为流程绘制工具
+* 前端页面融合BPMN-JS作为流程绘制工具
 * 整合SpringSecurity安全框架
  
 # 启动项目流程
@@ -74,9 +75,9 @@ Acticiti7工作流引擎
 # 效果预览
 > 总体预览
 
-![Image text](./src/main/resources/static/git_show/0001.jpg)
+![Image text](https://images.techgeng.com/blog/%E6%88%AA%E5%B1%8F2023-03-07%20%E4%B8%8B%E5%8D%883.01.44.png)
 
-![Image text](./src/main/resources/static/git_show/0002.gif)
+![Image text](https://images.techgeng.com/blog/0002.gif)
 
 # 使用说明
 ### 动态表单配置原则（课程里有详细讲解）
